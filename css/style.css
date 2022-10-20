@@ -63,7 +63,10 @@ div {
     float: right;
 }
 
-.container_second > div {
-    float:left;
+.container_third {
+    float: right;
 }
 
+.container_third > div {
+    float:left;
+}
