@@ -51,7 +51,7 @@ section::after {
     float: right;
 }
 
-.container > div {
+div {
     float: left;
 }
 
